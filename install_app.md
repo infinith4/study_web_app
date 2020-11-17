@@ -12,3 +12,11 @@ https://desktop.github.com/
 
 https://www.google.com/intl/ja_jp/chrome/
 
+# prepare
+
+### create github account
+
+create github account from below url
+
+https://github.com
+
